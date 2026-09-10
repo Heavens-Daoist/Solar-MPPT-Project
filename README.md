@@ -1,6 +1,6 @@
 #  Solar Energy Harvesting + MPPT
 
-An end-to-end project exploring **solar PV energy harvesting and Maximum Power Point Tracking (MPPT)** — from solar-cell physics and mathematical modelling to Python simulation, MPPT algorithms, embedded C, and hardware.
+An end-to-end project exploring **solar PV energy harvesting and Maximum Power Point Tracking (MPPT)** , from solar-cell physics and mathematical modelling to Python simulation, MPPT algorithms, embedded C, and hardware.
 
 ###  Goals
 
